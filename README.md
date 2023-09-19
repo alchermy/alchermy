@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I am currently studying for a bachelor's degree. Information and Communication Technology field Sripatum University I have a passion for coding and a knack for the front end of things. I started learning on my own, starting with HTML, CSS, and JavaScript. Now I'm learning React JS, and I'm always up for learning and experimenting with new tools
+I am currently studying for a bachelor's degree. Information and Communication Technology field Sripatum University I have a passion for coding. I started learning on my own, starting with HTML, CSS, and JavaScript. Now I'm learning React JS, and I'm always up for learning and experimenting with new tools
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyProtfolio](https://thanawat-portfolio.netlify.app/)
